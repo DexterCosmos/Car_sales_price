@@ -2,13 +2,13 @@
   <img src="path/to/your/image.jpg" alt="Data Image">
 </p>
 
-<h1 align="center">C</h1>
+<h1 align="center">Car sales Analysis</h1>
 
 ---
 
 # Data Summary
 
-In this section, provide a summary of the data analyzed in this project. Describe the dataset, the source of the data, the number of entries, and the key attributes. Include any notable findings or insights that were discovered during the analysis.
+In this section, provide a summary of the data analyzed in this project. Describe the dataset, the source of the data, the number of entries, and the key attributes. Include any notable findings or insights that were discovered during the analysis. 23905 sales of cars
 
 # Dashboard
 
