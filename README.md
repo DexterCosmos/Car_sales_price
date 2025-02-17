@@ -2,7 +2,7 @@
   <img src="path/to/your/image.jpg" alt="Data Image">
 </p>
 
-<h1 align="center">Car analysis data</h1>
+<h1 align="center">C</h1>
 
 ---
 
