@@ -1,1 +1,31 @@
-**Nomaan Ansari**
+<p align="center">
+  <img src="path/to/your/image.jpg" alt="Data Image">
+</p>
+
+<h1 align="center">Data Analyst of Cars</h1>
+
+---
+
+# Data Summary
+
+In this section, provide a summary of the data analyzed in this project. Describe the dataset, the source of the data, the number of entries, and the key attributes. Include any notable findings or insights that were discovered during the analysis.
+
+# Dashboard
+
+This section showcases the interactive dashboard created for visualizing and exploring the data. Provide a brief description of the dashboard, how to use it, and the key features it offers. Include screenshots or links to the live dashboard if available.
+
+# Tools Utilized
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Power BI/Tableau (if applicable)
+
+---
+
+<p align="center">
+  <i>This project was solely made by //Nomaan Ansari// </i>
+</p>
