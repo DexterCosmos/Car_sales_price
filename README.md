@@ -15,10 +15,14 @@ In this section, provide a summary of the data analyzed in this project. Describ
 This section showcases the interactive dashboard created for visualizing and exploring the data. Provide a brief description of the dashboard, how to use it, and the key features it offers. Include screenshots or links to the live dashboard if available.
 
 <div 
+  
   <p align="right">
     <img src="path/to/your/image.jpg" alt="Data Image">
-  </p><p align="Left">
+  </p>
+  
+  <p align="Left">
     <img src="path/to/your/image.jpg" alt="Data Image">
+  
   </p>
 </div>
 
