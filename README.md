@@ -2,7 +2,7 @@
   <img src="path/to/your/image.jpg" alt="Data Image">
 </p>
 
-<h1 align="center">Data Analyst of Cars</h1>
+<h1 align="center">Analysis Cars Data</h1>
 
 ---
 
@@ -22,10 +22,10 @@ This section showcases the interactive dashboard created for visualizing and exp
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- Power BI/Tableau (if applicable)
+- Power BI
 
 ---
 
 <p align="center">
-  <i>This project was solely made by //Nomaan Ansari// </i>
+  <i>This project was solely made by // Nomaan Ansari // </i>
 </p>
