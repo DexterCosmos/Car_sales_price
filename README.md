@@ -32,7 +32,10 @@ This analysis provides valuable insights into the automotive market, helping sta
 
 # Dashboard
 
-This section showcases the interactive dashboard created for visualizing and exploring the data. Provide a brief description of the dashboard, how to use it, and the key features it offers. Include screenshots or links to the live dashboard if available.
+Interactive Dashboard: Visualizing Car Sales Data
+This section showcases the interactive dashboard created for visualizing and exploring the car sales data. The dashboard offers an intuitive interface for users to gain insights and make data-driven decisions.
+
+Description: The interactive dashboard is designed to provide a comprehensive view of the car sales dataset. It allows users to explore various aspects of the data, such as sales trends, price analysis, geographical distribution, and more.
 
 <div>
 
