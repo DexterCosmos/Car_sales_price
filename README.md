@@ -51,6 +51,7 @@ Description: The interactive dashboard is designed to provide a comprehensive vi
 
 # Tools Utilized
 
+- Excel
 - Python
 - Pandas
 - NumPy
