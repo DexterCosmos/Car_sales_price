@@ -54,7 +54,6 @@ Description: The interactive dashboard is designed to provide a comprehensive vi
 - Excel
 - Python
 - Pandas
-- NumPy
 - Jupyter Notebook
 - Power BI
 
