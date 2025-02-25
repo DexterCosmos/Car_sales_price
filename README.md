@@ -1,4 +1,4 @@
-<h2 align="center">Car sales Analysis</h2>
+<h align="center">Car sales Analysis</h>
 
 ---
 
