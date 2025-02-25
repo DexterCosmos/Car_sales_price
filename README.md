@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="images/dashboard_1.jpeg" alt="Data Image">
-</p>
-
-<h1 align="center">Car sales Analysis</h1>
+<h2 align="center">Car sales Analysis</h2>
 
 ---
 
