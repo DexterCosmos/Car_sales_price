@@ -1,10 +1,10 @@
-<h1 align="center" font-size="20px">Car sales Analysis</h1>
+<h1 align="center" font-size="20px">Automobile sales Analysis</h1>
 
 ---
 
 # Data Summary
 
-### Project Summary: Analysis of Car Sales Data
+### Project Summary: Analysis of Automobile Sales Data
 
 In this section, we delve into the analysis of a car sales dataset, consisting of 23,905 entries. The data was meticulously sourced from various reputable automobile sales databases, ensuring a comprehensive and accurate representation of car sales.
 
@@ -28,10 +28,10 @@ This analysis provides valuable insights into the automotive market, helping sta
 
 # Dashboard
 
-Interactive Dashboard: Visualizing Car Sales Data
+Interactive Dashboard: Visualizing Automobile Sales Data
 This section showcases the interactive dashboard created for visualizing and exploring the car sales data. The dashboard offers an intuitive interface for users to gain insights and make data-driven decisions.
 
-Description: The interactive dashboard is designed to provide a comprehensive view of the car sales dataset. It allows users to explore various aspects of the data, such as sales trends, price analysis, geographical distribution, and more.
+Description: The interactive dashboard is designed to provide a comprehensive view of the Automobile sales dataset. It allows users to explore various aspects of the data, such as sales trends, price analysis, geographical distribution, and more.
 
 <div>
 
