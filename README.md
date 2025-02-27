@@ -56,5 +56,5 @@ Description: The interactive dashboard is designed to provide a comprehensive vi
 ---
 
 <p align="center">
-  <i>This project was solely made by // Nomaan Ansari // </i>
+  <i>This project was solely exicuted by // Nomaan Ansari // </i>
 </p>
