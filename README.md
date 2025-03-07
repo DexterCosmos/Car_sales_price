@@ -2,9 +2,10 @@
 <img src="images/banner.png" alt="Logo" width="600">
 <h1 align="center" font-size="20px">Automobile sales Analysis</h1>
 </div>
----
+
 
 # Data Summary
+---
 
 ### Project Summary: Analysis of Automobile Sales Data
 
