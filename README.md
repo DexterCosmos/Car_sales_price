@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/banner.png" alt="Logo">
+<img src="images/banner.png" alt="Logo" width="600">
 <h1 align="center" font-size="20px">Automobile sales Analysis</h1>
 </div>
 ---
